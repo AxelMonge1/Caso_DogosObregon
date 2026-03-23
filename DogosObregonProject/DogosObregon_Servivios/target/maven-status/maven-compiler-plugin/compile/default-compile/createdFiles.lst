@@ -1,0 +1,9 @@
+org\itson\dogosobregon_servivios\IClienteService.class
+org\itson\dogosobregon_servivios\IPedidoService.class
+org\itson\dogosobregon_servivios\IHotDogService.class
+org\itson\dogosobregon_servivios\HotDogService.class
+org\itson\dogosobregon_servivios\PedidoService.class
+org\itson\dogosobregon_servivios\PedidoDetalleService.class
+org\itson\dogosobregon_servivios\ClienteService.class
+org\itson\dogosobregon_servivios\IGenericoService.class
+org\itson\dogosobregon_servivios\IPedidoDetalleService.class

@@ -1,0 +1,9 @@
+org\itson\dogosobregon_persistencia\PedidoDAO.class
+org\itson\dogosobregon_persistencia\ClienteDAO.class
+org\itson\dogosobregon_persistencia\IHotDogDAO.class
+org\itson\dogosobregon_persistencia\IPedidoDAO.class
+org\itson\dogosobregon_persistencia\PedidoDetalleDAO.class
+org\itson\dogosobregon_persistencia\HotDogDAO.class
+org\itson\dogosobregon_persistencia\IClienteDAO.class
+org\itson\dogosobregon_persistencia\IGenericoDAO.class
+org\itson\dogosobregon_persistencia\IPedidoDetalleDAO.class

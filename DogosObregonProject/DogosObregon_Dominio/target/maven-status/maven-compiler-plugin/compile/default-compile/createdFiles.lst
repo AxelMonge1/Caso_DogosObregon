@@ -1,0 +1,5 @@
+org\itson\dogosobregon_dominio\Cliente.class
+org\itson\dogosobregon_dominio\HotDog.class
+org\itson\dogosobregon_dominio\PedidoDetalle.class
+org\itson\dogosobregon_dominio\MetodoPago.class
+org\itson\dogosobregon_dominio\Pedido.class
